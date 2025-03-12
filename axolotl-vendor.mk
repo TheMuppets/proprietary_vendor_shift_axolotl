@@ -510,7 +510,6 @@ PRODUCT_PACKAGES += \
     libnlnetmgr \
     libpdmapper \
     libpdnotifier \
-    libperfmgr \
     libpn553_fw \
     libqcrilFramework \
     libqdma_file_agent \
