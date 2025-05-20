@@ -642,8 +642,6 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     TrustZoneAccessService \
-    EuiccOverlay \
-    EuiccGoogle \
     PowerOffAlarm \
     QtiTelephonyService \
     uceShimService \
